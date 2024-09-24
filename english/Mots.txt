@@ -1,1 +1,1 @@
-gross = dégoutant
+gross = disgusting
